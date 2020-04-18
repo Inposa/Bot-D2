@@ -1,4 +1,5 @@
 {
     "application_name": "D2",
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "greeting_message":"Bonjour {{@user}}, et bienvenue sur le serveur {{guild}}.\nPour accéder à l'entièreté du serveur, nous t'invitons à d'abord te créer un compte sur le site <site>."
 }
